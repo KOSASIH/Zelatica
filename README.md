@@ -7,4 +7,4 @@ To be the best in helping develop businesses and improve the welfare of people a
 # Value proposition
 As a Web3 marketplace, Zelatica's technology is tailored to help develop businesses where entrepreneurs, artists and art creators can easily display, offer, and sell their products. Zelatica is equipped with a secure payment system, be it fiat money through interbank transfers or using digital money (Crypto Currency). Zelatica is equipped with an integration system with a digital wallet (Metamask) to make the login process easier.
 # Site
-For register cek the following [link](https://zaletica.54nft.io) 
+1. For register please go to the following [link](https://zelatica.54nft.io/register) 
