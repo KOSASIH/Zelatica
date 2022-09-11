@@ -1,3 +1,5 @@
+[![CI](https://github.com/KOSASIH/Zelatica/actions/workflows/zelatica.yml/badge.svg)](https://github.com/KOSASIH/Zelatica/actions/workflows/zelatica.yml)
+
 # Zelatica
 Collect, sell, trade and play with the most exclusive NFT’s, fashion, brands, collectibles, merchandise, and more
 # Description
