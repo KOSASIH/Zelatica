@@ -2,6 +2,7 @@
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Zelatica.svg/?label=active+issues&show_trend=true&token=sHafcgp0Ir7slbglZu1MhiiB)](https://deepsource.io/gh/KOSASIH/Zelatica/?ref=repository-badge)
 [![Dependency Review](https://github.com/KOSASIH/Zelatica/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/KOSASIH/Zelatica/actions/workflows/dependency-review.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KOSASIH/Zelatica/main?labpath=Docs)
+[![CodeFactor](https://www.codefactor.io/repository/github/kosasih/zelatica/badge)](https://www.codefactor.io/repository/github/kosasih/zelatica)
 
 # Zelatica
 
