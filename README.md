@@ -1,5 +1,6 @@
 [![CI](https://github.com/KOSASIH/Zelatica/actions/workflows/zelatica.yml/badge.svg)](https://github.com/KOSASIH/Zelatica/actions/workflows/zelatica.yml)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Zelatica.svg/?label=active+issues&show_trend=true&token=sHafcgp0Ir7slbglZu1MhiiB)](https://deepsource.io/gh/KOSASIH/Zelatica/?ref=repository-badge)
+[![Dependency Review](https://github.com/KOSASIH/Zelatica/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/KOSASIH/Zelatica/actions/workflows/dependency-review.yml)
 
 # Zelatica
 
